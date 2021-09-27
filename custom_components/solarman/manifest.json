@@ -1,0 +1,14 @@
+{
+  "domain": "solarman",
+  "name": "SolarMAN logger",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/solarman",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@KodeCR"],
+  "iot_class": "local_push",
+  "version": "0.1.0"
+}
